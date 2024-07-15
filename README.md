@@ -48,6 +48,7 @@ Uses:
 1. Maintain Data of large number of patients with interconnected tables.
 
 2. Get data about patients easy using queries.
+3. Can do analysis easily with SQL
 
 Possible Upgrades:
 1. Using Tkinter to convert this into GUI App
