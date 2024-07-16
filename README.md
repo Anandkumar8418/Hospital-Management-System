@@ -5,6 +5,7 @@ Queries to make these table structures are given in the Hospital.sql file which 
 
 <img width="1187" alt="Screenshot 2024-07-16 at 11 09 08 AM" src="https://github.com/user-attachments/assets/301fb875-1a0e-4b78-a9f0-8d38a43abaa9">
 
+[Link to ER Diagram](https://drawsql.app/teams/iit-k/diagrams/hospital-management-system)
 
 ### How to Use:
 1. Clone git repositry by typing this on terminal
