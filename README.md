@@ -3,8 +3,8 @@
 Database Tables used in our SQL localhost
 Queries to make these table structures are given in the Hospital.sql file which can be edited and executed on PopSQL.
 
+<img width="1165" alt="Screenshot 2024-07-16 at 10 58 36 AM" src="https://github.com/user-attachments/assets/bc041f3a-b127-4c58-9f3b-429f1057564e">
 
-<img width="831" alt="Screenshot 2024-07-15 at 11 38 01 PM" src="https://github.com/user-attachments/assets/bf6d86eb-4ef8-4fe3-9a10-895ab3fa2a90">
 
 
 ### How to Use:
