@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management Databse System
 
 Database Tables used in our SQL localhost
 Queries to make these table structures are given in the Hospital.sql file which can be edited and executed on PopSQL.
